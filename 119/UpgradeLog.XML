@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="euler119">
+</Property><Property Name="Solution File" Value="C:\Software Projects\Project Euler\119\euler119.sln">
+</Property><Property Name="User Options File" Value="C:\Software Projects\Project Euler\119\euler119.suo">
+</Property><Property Name="Date" Value="Monday, April 16, 2012">
+</Property><Property Name="Time" Value="4:06 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="euler119.sln" Description="File successfully backed up as C:\Software Projects\Project Euler\119\Backup\euler119.sln">
+</Event><Event ErrorLevel="0" Project="" Source="euler119.suo" Description="File successfully backed up as C:\Software Projects\Project Euler\119\Backup\euler119.suo">
+</Event><Event ErrorLevel="0" Project="euler119csharp" Source="euler119csharp\euler119csharp.csproj" Description="Project file successfully backed up as C:\Software Projects\Project Euler\119\Backup\euler119csharp\euler119csharp.csproj">
+</Event><Event ErrorLevel="0" Project="euler119csharp" Source="euler119csharp\Program.cs" Description="File successfully backed up as C:\Software Projects\Project Euler\119\Backup\euler119csharp\Program.cs">
+</Event><Event ErrorLevel="0" Project="euler119csharp" Source="euler119csharp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Software Projects\Project Euler\119\Backup\euler119csharp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="euler119csharp" Source="euler119csharp\euler119csharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="euler119csharp" Source="euler119csharp\euler119csharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="euler119.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="euler119.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="euler119csharp" Source="euler119csharp\euler119csharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

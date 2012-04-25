@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "euler083csharp", "euler083csharp\euler083csharp.csproj", "{D26F142F-9150-4341-83B5-4A559E8D9F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26F142F-9150-4341-83B5-4A559E8D9F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26F142F-9150-4341-83B5-4A559E8D9F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26F142F-9150-4341-83B5-4A559E8D9F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26F142F-9150-4341-83B5-4A559E8D9F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

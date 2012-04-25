@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "euler054csharp", "euler054csharp\euler054csharp.csproj", "{95BC9CE1-A92F-49FA-A1A2-AA8A136B2D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pb54", "Pb54\Pb54.csproj", "{DEA1F4E6-A8ED-45EB-80B0-7C1681572C44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95BC9CE1-A92F-49FA-A1A2-AA8A136B2D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BC9CE1-A92F-49FA-A1A2-AA8A136B2D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BC9CE1-A92F-49FA-A1A2-AA8A136B2D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BC9CE1-A92F-49FA-A1A2-AA8A136B2D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA1F4E6-A8ED-45EB-80B0-7C1681572C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA1F4E6-A8ED-45EB-80B0-7C1681572C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA1F4E6-A8ED-45EB-80B0-7C1681572C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA1F4E6-A8ED-45EB-80B0-7C1681572C44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
